@@ -572,7 +572,7 @@
          "value":"src\/main.ts"
         }, 
         {
-         "name":"test hello",
+         "name":"script.js",
          "type":"string",
          "value":"WA.chat.sendChatMessage('Hello world', 'Mr Robot');"
         }],
