@@ -35,7 +35,7 @@
                  "value":"https:\/\/app.sketchtogether.com\/sketchnow"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -100,7 +100,7 @@
          "name":"collisions",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -135,7 +135,7 @@
                  "name":"floor2",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":31,
                  "x":0,
                  "y":0
@@ -177,7 +177,7 @@
          "name":"floor",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -285,6 +285,7 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4750, 2342, 0, 4782, 4312, 4313, 4314, 0, 0, 0, 0],
                  "height":21,
                  "id":44,
+                 "locked":true,
                  "name":"furniture1",
                  "opacity":1,
                  "type":"tilelayer",
@@ -317,6 +318,7 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2513, 0],
                  "height":21,
                  "id":65,
+                 "locked":true,
                  "name":"furniture 2",
                  "opacity":1,
                  "type":"tilelayer",
@@ -358,6 +360,7 @@
                  "x":0,
                  "y":0
                 }],
+         "locked":true,
          "name":"furniture",
          "opacity":1,
          "type":"group",
