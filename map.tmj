@@ -102,7 +102,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Appuyez Espace pour acc\u00e9der \u00e0 Inside intranet"
+                 "value":"Appuyez ESPACE pour acc\u00e9der \u00e0 Inside intranet"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -134,6 +134,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":21,
          "id":71,
+         "locked":true,
          "name":"TechLab_video",
          "opacity":1,
          "properties":[
@@ -187,6 +188,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":21,
          "id":73,
+         "locked":true,
          "name":"FRmetaverse_drive_tab",
          "opacity":1,
          "properties":[
@@ -225,6 +227,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":21,
          "id":74,
+         "locked":true,
          "name":"FR_Tech_Acce_drive_tab",
          "opacity":1,
          "properties":[
@@ -263,6 +266,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":21,
          "id":69,
+         "locked":true,
          "name":"whiteboard_website",
          "opacity":1,
          "properties":[
@@ -311,6 +315,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":21,
          "id":75,
+         "locked":true,
          "name":"eraser_website",
          "opacity":1,
          "properties":[
@@ -359,6 +364,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 9, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":21,
          "id":76,
+         "locked":true,
          "name":"WA_village",
          "opacity":1,
          "properties":[
@@ -543,6 +549,7 @@
                     0, 3069, 3070, 3071, 3072, 3069, 3070, 3071, 3072, 3069, 3070, 3071, 3072, 3023, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":21,
                  "id":9,
+                 "locked":true,
                  "name":"walls1",
                  "opacity":1,
                  "type":"tilelayer",
@@ -575,6 +582,7 @@
                     3021, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":21,
                  "id":56,
+                 "locked":true,
                  "name":"walls2",
                  "opacity":1,
                  "type":"tilelayer",
@@ -618,6 +626,7 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4750, 2342, 0, 4782, 4312, 4313, 4314, 0, 0, 0, 0],
                  "height":21,
                  "id":44,
+                 "locked":true,
                  "name":"furniture1",
                  "opacity":1,
                  "type":"tilelayer",
@@ -650,6 +659,7 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2513, 0],
                  "height":21,
                  "id":65,
+                 "locked":true,
                  "name":"furniture 2",
                  "opacity":1,
                  "type":"tilelayer",
@@ -682,6 +692,7 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":21,
                  "id":33,
+                 "locked":true,
                  "name":"furniture3",
                  "opacity":1,
                  "type":"tilelayer",
