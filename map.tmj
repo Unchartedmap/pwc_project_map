@@ -270,6 +270,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/app.sketchtogether.com\/sketchnow"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Appuyez sur ESPACE pour acc\u00e9der \u00e0 SketchTogether. Une nouvelle session s'ouvre chaque visite et vous pouvez inviter vos coll\u00e8gues."
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -308,6 +318,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/app.eraser.io\/all"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Appuyez sur ESPACE pour acc\u00e9der \u00e0 Eraser. Vous devez ouvrir votre session avec votre adresse PwC pour acc\u00e9der au compte du Tech Lab."
                 }],
          "type":"tilelayer",
          "visible":false,
