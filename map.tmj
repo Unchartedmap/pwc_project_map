@@ -346,16 +346,6 @@
                  "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/play.staging.workadventu.re\/@\/tcm\/workadventure\/wa-village"
-                }, 
-                {
-                 "name":"openTabTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"openTabTriggerMessage",
-                 "type":"string",
-                 "value":"Appuyez sur ESPACE pour visiter le village de WorkAdventure. "
                 }],
          "type":"tilelayer",
          "visible":false,
