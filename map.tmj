@@ -348,11 +348,6 @@
                  "value":"https:\/\/play.staging.workadventu.re\/@\/tcm\/workadventure\/wa-village"
                 }, 
                 {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen"
-                }, 
-                {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -363,7 +358,7 @@
                  "value":"Appuyez sur ESPACE pour visiter le village de WorkAdventure. "
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":31,
          "x":0,
          "y":0
@@ -507,7 +502,7 @@
          "name":"floor",
          "opacity":1,
          "type":"group",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
