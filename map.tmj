@@ -234,7 +234,7 @@
                  "value":"https:\/\/drive.google.com\/drive\/folders\/0AFRqW8kPhKr6Uk9PVA"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -358,7 +358,7 @@
                  "value":"Appuyez sur ESPACE pour visiter le village de WorkAdventure. "
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -502,7 +502,7 @@
          "name":"floor",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
