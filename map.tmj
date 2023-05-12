@@ -234,7 +234,7 @@
                  "value":"https:\/\/drive.google.com\/drive\/folders\/0AFRqW8kPhKr6Uk9PVA"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":31,
          "x":0,
          "y":0
@@ -343,17 +343,17 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/play.staging.workadventu.re\/@\/tcm\/workadventure\/wa-village"
                 }, 
                 {
-                 "name":"openWebsiteTrigger",
+                 "name":"openTabTrigger",
                  "type":"string",
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage",
+                 "name":"openTabTriggerMessage",
                  "type":"string",
                  "value":"Appuyez sur ESPACE pour visiter le village de WorkAdventure. "
                 }],
