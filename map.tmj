@@ -51,7 +51,7 @@
                  "value":"Appuyez sur ESPACE pour \u00eatre inform\u00e9 sur  la strat\u00e9gie mondiale de PwC."
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -557,7 +557,7 @@
          "name":"floor",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
