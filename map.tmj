@@ -441,9 +441,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openTab",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.staging.workadventu.re\/@\/tcm\/workadventure\/corridor#from-wa"
+                 "value":"https:\/\/play.workadventu.re\/@\/pwc-france\/pwc-france\/metiers"
                 }],
          "type":"tilelayer",
          "visible":false,
